@@ -1,0 +1,7 @@
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\bin\Debug\Mobile.exe.config
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\bin\Debug\Mobile.exe
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\bin\Debug\Mobile.pdb
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\obj\Debug\Mobile.csprojResolveAssemblyReference.cache
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\obj\Debug\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\obj\Debug\Mobile.exe
+C:\Users\durga.naganaboina\source\repos\Mobile\Mobile\obj\Debug\Mobile.pdb
